@@ -237,7 +237,7 @@ nav ul li a:hover::after {
 /* Hero Section */
 .hero {
   height: 110vh;
-  background-image: url('image/homepageback.jpg'); 
+  background-image: url('homepageback.jpg'); 
   background-size: cover;
   background-position: center;
   display: flex;
